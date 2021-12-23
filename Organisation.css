@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/g815bf95cc3f17f5db47496d653c5a8ad199bfe26fa394af6223d694686a7bac5fe8241ea50f461f2c1d860504dccfb1e62e1fb7152a7a9a0453069b1807034e4_1280.png");
   background-position: 50% 50%;
 }
@@ -44,7 +44,7 @@
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
   }
-}.u-section-2 {
+} .u-section-2 {
   background-image: linear-gradient(#737373, #db545a);
 }
 
@@ -619,7 +619,7 @@
     margin-left: 0;
     margin-right: 0;
   }
-}.u-section-3 {
+} .u-section-3 {
   background-image: none;
 }
 
