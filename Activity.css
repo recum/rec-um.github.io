@@ -65,14 +65,18 @@
   height: auto;
 }
 
+.u-section-2 .u-carousel-item-1 {
+  margin: 0 auto;
+}
+
 .u-section-2 .u-container-layout-1 {
-  padding: 30px 60px;
+  padding: 30px 50px;
 }
 
 .u-section-2 .u-image-1 {
-  width: 322px;
-  height: 322px;
-  margin: 0 auto;
+  width: 320px;
+  height: 319px;
+  margin: 22px auto 0;
 }
 
 .u-section-2 .u-carousel-item-2 {
@@ -81,17 +85,18 @@
 }
 
 .u-section-2 .u-container-layout-2 {
-  padding: 30px 50px;
+  padding: 30px 60px;
 }
 
 .u-section-2 .u-image-2 {
-  width: 327px;
+  width: 322px;
   height: 322px;
   margin: 0 auto;
 }
 
 .u-section-2 .u-carousel-item-3 {
-  margin: 0 auto;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -99,6 +104,20 @@
 }
 
 .u-section-2 .u-image-3 {
+  width: 327px;
+  height: 322px;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-carousel-item-4 {
+  margin: 0 auto;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px 50px;
+}
+
+.u-section-2 .u-image-4 {
   width: 325px;
   height: 325px;
   margin: 0 auto;
@@ -130,16 +149,21 @@
 
 @media (max-width: 991px) {
   .u-section-2 .u-container-layout-1 {
-    padding-left: 50px;
-    padding-right: 50px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
     padding-left: 30px;
     padding-right: 30px;
   }
 
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
   .u-section-2 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
     padding-left: 30px;
     padding-right: 30px;
   }
@@ -150,12 +174,17 @@
     min-height: 537px;
   }
 
-  .u-section-2 .u-container-layout-2 {
+  .u-section-2 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
   }
 
   .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -173,17 +202,17 @@
     width: auto;
   }
 
-  .u-section-2 .u-image-1 {
+  .u-section-2 .u-image-2 {
     width: 320px;
     height: 320px;
   }
 
-  .u-section-2 .u-image-2 {
+  .u-section-2 .u-image-3 {
     width: 320px;
     height: 315px;
   }
 
-  .u-section-2 .u-image-3 {
+  .u-section-2 .u-image-4 {
     width: 320px;
     height: 320px;
   }
