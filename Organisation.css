@@ -64,7 +64,6 @@
 }
 
 .u-section-2 .u-list-1 {
-  width: 1140px;
   margin: 30px 0 23px;
 }
 
@@ -308,7 +307,8 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-list-1 {
-    width: 940px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-2 .u-repeater-1 {
@@ -341,10 +341,6 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-2 .u-list-1 {
-    width: 720px;
-  }
-
   .u-section-2 .u-repeater-1 {
     grid-template-columns: 100%;
   }
@@ -359,7 +355,6 @@
     margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
-    width: auto;
   }
 
   .u-section-2 .u-repeater-1 {
@@ -1961,7 +1956,6 @@
 }
 
 .u-section-4 .u-list-1 {
-  width: 1140px;
   margin: 126px 0 39px;
 }
 
@@ -2063,8 +2057,9 @@
 
 @media (max-width: 1199px) {
   .u-section-4 .u-list-1 {
-    width: 940px;
     margin-bottom: -11px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-4 .u-repeater-1 {
@@ -2143,8 +2138,9 @@
 
 @media (max-width: 991px) {
   .u-section-4 .u-list-1 {
-    width: 720px;
     margin-bottom: 80px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-4 .u-repeater-1 {
@@ -2181,7 +2177,6 @@
     margin-bottom: 35px;
     margin-right: initial;
     margin-left: initial;
-    width: auto;
   }
 
   .u-section-4 .u-repeater-1 {
@@ -2214,7 +2209,6 @@
 
   .u-section-4 .u-list-1 {
     margin-bottom: 49px;
-    width: auto;
     margin-right: initial;
     margin-left: initial;
   }
