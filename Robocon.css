@@ -1,32 +1,27 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("https://i.ytimg.com/vi/gVAT0XdTQpI/maxresdefault.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/Robocon21.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 719px;
+  min-height: 570px;
 }
 
 .u-section-1 .u-text-1 {
   font-size: 3.75rem;
-  margin: 44px auto 0;
-}
-
-.u-section-1 .u-custom-html-1 {
-  min-height: 109px;
-  width: 700px;
-  margin: 5px auto 0;
+  margin: 66px auto 0;
 }
 
 .u-section-1 .u-shape-1 {
-  height: 244px;
-  margin: 97px 0 0;
+  height: 212px;
+  margin-top: 189px;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 6rem;
   font-weight: 700;
-  margin: -339px auto 0;
+  margin: -307px auto 0;
 }
 
 .u-section-1 .u-text-3 {
@@ -36,11 +31,6 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 571px;
-  }
-
-  .u-section-1 .u-shape-1 {
-    margin-right: initial;
-    margin-left: initial;
   }
 }
 
@@ -54,19 +44,11 @@
   .u-section-1 .u-sheet-1 {
     min-height: 482px;
   }
-
-  .u-section-1 .u-custom-html-1 {
-    width: 540px;
-  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 598px;
-  }
-
-  .u-section-1 .u-custom-html-1 {
-    width: 340px;
   }
 
   .u-section-1 .u-text-2 {
@@ -275,14 +257,15 @@
 }
 
 .u-section-3 .u-container-layout-1 {
-  padding: 0 20px 30px 50px;
+  padding: 0 35px 30px;
 }
 
 .u-section-3 .u-image-1 {
-  height: 651px;
-  margin-top: -60px;
-  margin-bottom: 0;
+  height: 384px;
   box-shadow: 5px -6px 20px 0 rgba(0,0,0,0.25);
+  width: 100%;
+  object-position: 44.59% 50%;
+  margin: 119px 0 0;
 }
 
 .u-section-3 .u-layout-cell-2 {
@@ -319,10 +302,6 @@
     min-height: 512px;
   }
 
-  .u-section-3 .u-image-1 {
-    height: 520px;
-  }
-
   .u-section-3 .u-layout-cell-2 {
     pointer-events: auto;
     min-height: 512px;
@@ -347,12 +326,12 @@
   }
 
   .u-section-3 .u-container-layout-1 {
+    padding-right: 30px;
     padding-left: 30px;
   }
 
   .u-section-3 .u-image-1 {
     object-position: 100% 50%;
-    height: 403px;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -371,14 +350,6 @@
 
   .u-section-3 .u-layout-cell-1 {
     min-height: 376px;
-  }
-
-  .u-section-3 .u-container-layout-1 {
-    padding-right: 30px;
-  }
-
-  .u-section-3 .u-image-1 {
-    height: 703px;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -403,10 +374,6 @@
 
   .u-section-3 .u-layout-cell-1 {
     min-height: 237px;
-  }
-
-  .u-section-3 .u-image-1 {
-    height: 433px;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -649,8 +616,8 @@
 
 .u-section-5 .u-image-1 {
   min-height: 582px;
-  background-image: url("images/D-yjsEuXYAAZs6l.jpg");
-  background-position: 83.63% 50%;
+  background-image: url("images/image4.png");
+  background-position: 50% 50%;
 }
 
 .u-section-5 .u-container-layout-4 {
@@ -790,7 +757,7 @@
     min-height: 100px;
   }
 } .u-section-6 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/robotonn.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/roboticsclub.jpg");
   background-position: 50% 50%;
 }
 
@@ -864,6 +831,64 @@
   }
 
   .u-section-6 .u-text-3 {
+    width: 340px;
+  }
+} .u-section-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/RoboconGroupPhotos1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-7 .u-text-1 {
+  margin: 351px auto 0;
+}
+
+.u-section-7 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 0 91px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-7 .u-text-2 {
+    width: 826px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-7 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-7 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-7 .u-text-2 {
     width: 340px;
   }
 }
