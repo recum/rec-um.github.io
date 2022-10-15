@@ -214,17 +214,17 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 654px;
+    min-height: 1322px;
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 758px;
+    min-height: 796px;
   }
 
   .u-section-2 .u-group-1 {
-    width: 188px;
-    min-height: 143px;
-    margin-right: 132px;
+    width: 174px;
+    min-height: 117px;
+    margin-right: 146px;
   }
 
   .u-section-2 .u-text-1 {
@@ -238,6 +238,16 @@
 
   .u-section-2 .u-layout-cell-2 {
     min-height: 263px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-rotation-parent-1 {
+    margin-right: auto;
+    margin-left: -19px;
   }
 } .u-section-3 {
   background-image: none;
@@ -369,15 +379,44 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1008px;
+    min-height: 910px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 391px;
+    margin: 60px auto 58px -19px;
   }
 
   .u-section-3 .u-layout-cell-1 {
-    min-height: 237px;
+    min-height: 470px;
+  }
+
+  .u-section-3 .u-image-1 {
+    height: 218px;
+    margin-top: 81px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-3 .u-layout-cell-2 {
-    min-height: 358px;
+    min-height: 318px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: auto;
+    margin-top: -91px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-top: 9px;
+    margin-bottom: -28px;
   }
 } .u-section-4 {
   background-image: none;
@@ -753,6 +792,11 @@
     margin-left: initial;
   }
 
+  .u-section-5 .u-video-1 {
+    height: 311px;
+    width: 100%;
+  }
+
   .u-section-5 .u-layout-cell-3 {
     min-height: 100px;
   }
@@ -823,15 +867,27 @@
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 239px;
+    min-height: 667px;
+  }
+
+  .u-section-6 .u-text-1 {
+    width: auto;
+    font-size: 2.25rem;
+    margin-top: 143px;
+    margin-left: -50px;
+    margin-right: -50px;
   }
 
   .u-section-6 .u-text-2 {
-    width: 340px;
+    width: auto;
+    margin-top: 40px;
   }
 
   .u-section-6 .u-text-3 {
-    width: 340px;
+    width: auto;
+    margin-top: 21px;
+    margin-left: 0;
+    margin-right: 0;
   }
 } .u-section-7 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/RoboconGroupPhotos1.jpg");
@@ -860,6 +916,8 @@
     width: 826px;
     margin-left: 0;
     margin-right: 0;
+    margin-top: 20px;
+    margin-bottom: initial;
   }
 }
 
@@ -870,6 +928,7 @@
 
   .u-section-7 .u-text-2 {
     width: 720px;
+    margin-bottom: 60px;
   }
 }
 
@@ -885,10 +944,20 @@
 
 @media (max-width: 575px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 239px;
+    min-height: 495px;
+  }
+
+  .u-section-7 .u-text-1 {
+    width: auto;
+    font-size: 2.25rem;
+    margin-top: 57px;
+    margin-left: -25px;
   }
 
   .u-section-7 .u-text-2 {
-    width: 340px;
+    width: auto;
+    margin-top: 57px;
+    margin-right: 12px;
+    margin-left: -12px;
   }
 }
